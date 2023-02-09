@@ -21,7 +21,7 @@
 ### 🦊 Обо мне :
 Здравствуйте! Я — **Салахова Ёна**, и я постоянно забываю обновлять GitHub. Старший преподаватель Института математики и информатики МПГУ, автор учебных пособий по информатике и робототехнике. Делаю всё возможное, **чтобы искусственный интеллект больше изучали в школе**.
 
-### :hammer_and_wrench: Мой стек технологий и любимые библиотеки:
+### :hammer_and_wrench: Мой стек технологий:
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
@@ -47,7 +47,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-### 📝 Работаю:
+### 📝 Работаю в...:
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
@@ -57,17 +57,16 @@
 
 ### 📕 Сейчас учу или повторяю забытое:
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### 🛑 Мой стоп-лист:
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+Пока не планирую заниматься мобильной разработкой.
 
 
-### :fire: Моя активность на github :
+### :fire: Моя активность на GitHub :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memeko&layout=compact)](https://github.com/memeko/github-readme-stats)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memeko&theme=neon-dark&locale=ru)](https://git.io/streak-stats)
