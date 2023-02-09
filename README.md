@@ -19,6 +19,7 @@
 </div>
 
 ### 🦊 Обо мне :
+Здравствуйте! Я — **Салахова Ёна**, и я постоянно забываю обновлять GitHub. Старший преподаватель Института математики и информатики МПГУ, автор учебных пособий по информатике и робототехнике. Делаю всё возможное, **чтобы искусственный интеллект больше изучали в школе**.
 
 ### :hammer_and_wrench: Мой стек технологий и любимые библиотеки:
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -59,8 +60,8 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 
-### :fire: Как я забываю посылать на github :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memeko&theme=neon-dark&locale=ru)](https://git.io/streak-stats)
-<br>
+### :fire: Моя активность на github :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memeko&layout=compact)](https://github.com/memeko/github-readme-stats)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memeko&theme=neon-dark&locale=ru)](https://git.io/streak-stats)
 
