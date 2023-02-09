@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://sun9-6.userapi.com/impg/TgMZ-LQvburkdy3ww6dDb38iN1DM6uva1GSaFA/S9kRKolWcm0.jpg" width="150" />
+  <img src="https://i.ibb.co/GTDc356/IMG-7288.png" width="150" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/s-yona/">
