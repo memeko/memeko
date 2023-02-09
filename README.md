@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://sun9-45.userapi.com/impg/RblrMRZj1HPKtyty3m72JMULUUz0OcPxaaJ1WQ/JIRBwz3Wqsw.jpg?size=689x688&quality=95&sign=785778b6797e9570bce71c3597977bdb&type=album" width="100" style="border-radius:50%;"/>
+  <img src="https://sun9-6.userapi.com/impg/TgMZ-LQvburkdy3ww6dDb38iN1DM6uva1GSaFA/S9kRKolWcm0.jpg" width="150" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/s-yona/">
@@ -61,5 +61,6 @@
 
 ### :fire: Как я забываю посылать на github :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memeko&theme=neon-dark&locale=ru)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memeko&layout=compact)](https://github.com/memeko/github-readme-stats)
 
